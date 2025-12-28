@@ -1,4 +1,3 @@
-
 # LearnTrack – Student & Course Management System
 
 This is a Java console-based mini project developed for understanding core Java and OOP concepts.
